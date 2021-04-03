@@ -12,6 +12,7 @@ public class HomeWorkApp {
     }
 
     public static void compareNumbers() {
+        
         int a = 222;
         int b = 2;
 
